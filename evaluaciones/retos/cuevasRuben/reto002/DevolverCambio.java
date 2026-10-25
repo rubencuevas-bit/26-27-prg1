@@ -2,7 +2,7 @@
 
 class DevolverCambio {
     public static void main(String[] args) {
-        int importe = 223;
+        int importe = 232;
         int entregado = 200;
 
         int cambio = entregado - importe;
